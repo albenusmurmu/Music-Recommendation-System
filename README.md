@@ -91,6 +91,22 @@ If you are using Jupyter Notebook:
 ```
 pip install notebook
 ```
+### 🌳 4️⃣ Install Graphviz
+Graphviz is required to convert the .dot Decision Tree file into a visual graph.
+#### Windows
+Install Graphviz using:
+```
+winget install graphviz
+```
+After installation, verify it:
+```
+dot -V
+```
+Expected output:
+```
+dot - graphviz version 16.1.0
+### Note:
+The VS Code Graphviz extension alone is not enough. The actual Graphviz software must also be installed because it provides the dot command.
 
 
 

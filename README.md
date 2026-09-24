@@ -144,6 +144,14 @@ joblib.dump(model, "music-recommender.joblib")
 ```
 This allows the trained model to be reused later without training it again.
 
+### 🌳 8️⃣ Generate the Decision Tree
+The Decision Tree is exported into a .dot file.
+Example:
+```
+music-recommender.dot
+```
+The .dot file contains the structure of the Decision Tree.
+
 
 
 

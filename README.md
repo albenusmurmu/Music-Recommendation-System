@@ -197,6 +197,43 @@ Gini = 0
 ```
 A higher Gini value means the node contains a more mixed set of classes.
 
+### 🔍 Example Prediction
+After training the model, you can provide new user information:
+```
+prediction = model.predict([[25, 1]])
+
+print(prediction)
+```
+The model will return the predicted music genre.
+The exact encoding of gender depends on how it is encoded in the dataset.
+### 📈 Machine Learning Workflow
+```
+              Dataset
+                 │
+                 ▼
+          Data Preparation
+                 │
+                 ▼
+          Feature Selection
+                 │
+                 ▼
+       Train Decision Tree
+                 │
+                 ▼
+          Model Evaluation
+                 │
+                 ▼
+        Save Trained Model
+                 │
+                 ▼
+       Export Decision Tree
+                 │
+                 ▼
+          Graphviz (.dot)
+                 │
+                 ▼
+       Decision Tree (.png)
+```
 
 
 

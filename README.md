@@ -120,7 +120,20 @@ ML-Projects.ipynb
 ```
 Select your Python environment/kernel and run the notebook cells from top to bottom.
 
+### 🤖 6️⃣ Train the Model
 
+The project uses:
+```
+from sklearn.tree import DecisionTreeClassifier
+```
+The Decision Tree learns the relationship between:
+```
+Age
+Gender
+   ↓
+Music Genre
+```
+After training, the model can predict the preferred music genre for new users.
 
 
 

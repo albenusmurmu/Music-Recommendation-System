@@ -82,6 +82,15 @@ You should see something similar to:
 ```
 (.venv) PS C:\Users\...\Machine_Learning>
 ```
+### 3️⃣ Install Required Libraries
+Install the required Python packages:
+```
+pip install pandas scikit-learn openpyxl joblib
+```
+If you are using Jupyter Notebook:
+```
+pip install notebook
+```
 
 
 

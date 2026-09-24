@@ -109,6 +109,17 @@ dot - graphviz version 16.1.0
 ### Note:
 The VS Code Graphviz extension alone is not enough. The actual Graphviz software must also be installed because it provides the dot command.
 
+### 📓 5️⃣ Run the Jupyter Notebook
+Open the project in VS Code:
+```
+code .
+```
+Open:
+```
+ML-Projects.ipynb
+```
+Select your Python environment/kernel and run the notebook cells from top to bottom.
+
 
 
 

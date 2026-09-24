@@ -261,9 +261,21 @@ You can extend this project by experimenting with:
 - Test different ages and genders
 - Change the Decision Tree parameters
 ```
-
-
-
+#### Intermediate
+Try:
+```
+DecisionTreeClassifier(
+    max_depth=3,
+    random_state=42
+)
+```
+Experiment with:
+```
+max_depth
+min_samples_split
+min_samples_leaf
+criterion
+```
 
 
 

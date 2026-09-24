@@ -234,11 +234,24 @@ The exact encoding of gender depends on how it is encoded in the dataset.
                  ▼
        Decision Tree (.png)
 ```
+### 🎯 Key Concepts Learned
+```
+Through this project, you practice:
 
-
-
-
-
+- Python for Machine Learning
+- Pandas
+- Dataset handling
+- Feature selection
+- Classification
+- Decision Trees
+- Gini Impurity
+- Model training
+- Model prediction
+- Model persistence with Joblib
+- .dot graph generation
+- Graphviz visualization
+- Jupyter Notebook workflow
+```
 
 
 

@@ -151,6 +151,24 @@ Example:
 music-recommender.dot
 ```
 The .dot file contains the structure of the Decision Tree.
+### 🎨 9️⃣ Generate the Tree Image
+After Graphviz is installed, run:
+```
+dot -Tpng music-recommender.dot -o music-recommender.png
+```
+This converts:
+```
+music-recommender.dot
+        ↓
+     Graphviz
+        ↓
+music-recommender.png
+```
+You can now open:
+```
+music-recommender.png
+```
+to view the complete Decision Tree.
 
 
 

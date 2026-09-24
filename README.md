@@ -65,3 +65,35 @@ Machine_Learning/
  git clone <your-repository-url
 ```
 Move into the project:
+
+```
+cd Machine_Learning
+```
+### 2️⃣ Create a Virtual Environment
+Create a Python virtual environment:
+```
+python -m venv .venv
+```
+Activate it on Windows:
+```
+.venv\Scripts\activate
+```
+You should see something similar to:
+```
+(.venv) PS C:\Users\...\Machine_Learning>
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

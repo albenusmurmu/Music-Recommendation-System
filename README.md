@@ -276,6 +276,40 @@ min_samples_split
 min_samples_leaf
 criterion
 ```
+#### Advanced
+Compare the Decision Tree with:
+```
+Random Forest
+K-Nearest Neighbors
+Logistic Regression
+```
+and compare their prediction performance.
+
+---
+### ⚠️ Important Note
+This is a course/practice Machine Learning project intended to demonstrate the fundamentals of classification and Decision Trees.
+It is not a production-grade recommendation system because real music recommendation systems generally use much larger datasets and more advanced recommendation techniques.
+
+---
+
+### 👨‍💻 Learning Outcome
+By completing this project, you understand the complete basic workflow:
+```
+Dataset
+  ↓
+Data Preparation
+  ↓
+ML Algorithm
+  ↓
+Training
+  ↓
+Prediction
+  ↓
+Model Saving
+  ↓
+Model Visualization
+```
+#### This project serves as a foundation for understanding more advanced Machine Learning and AI systems.
 
 
 

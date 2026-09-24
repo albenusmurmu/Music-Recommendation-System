@@ -1,1 +1,62 @@
-# Music-Recommendation-System
+# 🎵 Music Recommendation System — Decision Tree
+
+A simple **Machine Learning project** that predicts a user's preferred music genre based on basic user information such as **age and gender** using a **Decision Tree Classifier**.
+
+---
+
+## 📌 Project Overview
+
+This project demonstrates how a **Decision Tree Classification algorithm** can learn patterns from user data and predict a suitable music genre.
+
+The project also generates a `.dot` file containing the structure of the trained Decision Tree and uses **Graphviz** to visualize the tree.
+
+### 🎯 Objective
+
+Build a basic music recommendation model that predicts genres such as:
+
+- 🎸 Acoustic
+- 🎼 Classical
+- 🎧 Dance
+- 🎤 HipHop
+- 🎷 Jazz
+
+---
+
+## 🛠️ Technologies Used
+
+- 🐍 Python
+- 🤖 Scikit-learn
+- 📊 Pandas
+- 🌳 Decision Tree Classifier
+- 🔗 Graphviz
+- 📓 Jupyter Notebook
+- 💻 VS Code
+
+---
+
+## 📂 Project Structure
+
+```text
+Machine_Learning/
+│
+├── ML-Projects.ipynb
+├── music.xlsx
+├── music-recommender.joblib
+├── music-recommender.dot
+├── music-recommender.png
+│
+└── README.md
+```
+## 📄 File Description
+
+| File                       | Purpose                       |
+| -------------------------- | ----------------------------- |
+| `ML-Projects.ipynb`        | Main Python/ML implementation |
+| `music.xlsx`               | Dataset                       |
+| `music-recommender.joblib` | Saved trained model           |
+| `music-recommender.dot`    | Decision Tree structure       |
+| `music-recommender.png`    | Visual Decision Tree          |
+| `README.md`                | Project documentation         |
+
+
+

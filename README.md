@@ -252,8 +252,15 @@ Through this project, you practice:
 - Graphviz visualization
 - Jupyter Notebook workflow
 ```
-
-
+### 🧪 Practice Ideas
+You can extend this project by experimenting with:
+#### Beginner
+```
+- Add more users to the dataset
+- Add additional music genres
+- Test different ages and genders
+- Change the Decision Tree parameters
+```
 
 
 

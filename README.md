@@ -169,6 +169,8 @@ You can now open:
 music-recommender.png
 ```
 to view the complete Decision Tree.
+---
+## 📊 Understanding Gini Impurity
 
 
 

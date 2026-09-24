@@ -173,6 +173,31 @@ to view the complete Decision Tree.
 ---
 ## 📊 Understanding Gini Impurity
 
+The Decision Tree uses Gini Impurity to determine how mixed the classes are at each node.
+### Formula
+```
+Gini=1−∑pi2​
+```
+Where pᵢ represents the proportion of samples belonging to each class.
+#### Example:
+```
+gini = 0.0
+```
+This means the node is completely pure.
+For example:
+```
+samples = 3
+value = [0, 0, 3, 0, 0]
+class = Dance
+```
+All 3 samples belong to Dance.
+Therefore:
+```
+Gini = 0
+```
+A higher Gini value means the node contains a more mixed set of classes.
+
+
 
 
 

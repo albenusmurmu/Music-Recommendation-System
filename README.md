@@ -135,6 +135,15 @@ Music Genre
 ```
 After training, the model can predict the preferred music genre for new users.
 
+### 💾 7️⃣ Save the Trained Model
+The trained model is saved using joblib:
+```
+import joblib
+
+joblib.dump(model, "music-recommender.joblib")
+```
+This allows the trained model to be reused later without training it again.
+
 
 
 

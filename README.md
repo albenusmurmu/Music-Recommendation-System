@@ -105,6 +105,7 @@ dot -V
 Expected output:
 ```
 dot - graphviz version 16.1.0
+```
 ### Note:
 The VS Code Graphviz extension alone is not enough. The actual Graphviz software must also be installed because it provides the dot command.
 

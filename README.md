@@ -57,6 +57,6 @@ Machine_Learning/
 | `music-recommender.dot`    | Decision Tree structure       |
 | `music-recommender.png`    | Visual Decision Tree          |
 | `README.md`                | Project documentation         |
-
+---
 ## 🚀 Step-by-Step Setup
 ### 1️⃣ Clone the Repository

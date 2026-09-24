@@ -61,7 +61,7 @@ Machine_Learning/
 ---
 ## 🚀 Step-by-Step Setup
 ### 1️⃣ Clone the Repository
-
 ```
-git clone <your-repository-url>
-```Move into the project:
+ git clone <your-repository-url
+```
+Move into the project:
